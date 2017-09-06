@@ -1,0 +1,20 @@
+{
+  "name": "calculator",
+  "homepage": "https://github.com/yijunhhhe/calculator",
+  "authors": [
+    "Yijun <yijunhhhe@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
